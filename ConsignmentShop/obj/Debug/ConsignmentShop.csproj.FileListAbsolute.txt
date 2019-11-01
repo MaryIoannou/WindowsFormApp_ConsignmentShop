@@ -7,3 +7,6 @@ C:\Users\Admin\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop
 C:\Users\Admin\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csproj.GenerateResource.cache
 C:\Users\Admin\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.exe
 C:\Users\Admin\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.pdb
+C:\Users\Admin\Desktop\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShopLibrary.dll
+C:\Users\Admin\Desktop\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShopLibrary.pdb
+C:\Users\Admin\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csproj.CopyComplete
