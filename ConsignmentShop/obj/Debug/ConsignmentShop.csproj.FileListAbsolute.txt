@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShop.exe.config
+C:\Users\Admin\Desktop\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShop.exe
+C:\Users\Admin\Desktop\ConsignmentShop\ConsignmentShop\bin\Debug\ConsignmentShop.pdb
+C:\Users\Admin\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.ConsignmentShop.resources
+C:\Users\Admin\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.Properties.Resources.resources
+C:\Users\Admin\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.exe
+C:\Users\Admin\Desktop\ConsignmentShop\ConsignmentShop\obj\Debug\ConsignmentShop.pdb
